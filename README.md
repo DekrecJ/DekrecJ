@@ -1,4 +1,4 @@
-Aquí tienes el código reescrito desde cero, optimizado específicamente para que la interfaz nativa de GitHub lo renderice de forma visual, ordenada y con una estructura muy estilizada (aprovechando tablas, bloques de texto ASCII y etiquetas compatibles) sin depender de navegadores externos ni de URLs:
+
 
 ```markdown
 <div align="center">
@@ -54,4 +54,4 @@ Aquí tienes el código reescrito desde cero, optimizado específicamente para q
 
 ---
 
-Copia este bloque completo, guárdalo directamente dentro de tu archivo `README.md` en GitHub y verás cómo toma forma visual de inmediato en la pantalla principal de tu repositorio.
+
