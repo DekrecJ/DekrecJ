@@ -36,7 +36,7 @@
 
 ### 🧰 02 // TOOLBOX
 
-* **// LANGUAGES:** `Dart` `Python` `TypeScript` `SQL`
+* **// LANGUAGES:** `Dart` `Python` `TypeScript` `SQL` `Java` `JavaScript` `HTML` 
 * **// INTERFACES:** `Flutter` `React` `Tailwind` `shadcn/ui`
 * **// BACKEND:** `FastAPI` `PostgreSQL` `Supabase` `REST APIs`
 * **// AI:** `Ollama` `Multi-agent` `RAG` `Automation`
