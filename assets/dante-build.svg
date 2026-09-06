@@ -1,0 +1,47 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>DANTE BUILD — Software, AI, Automation and Engineering</title>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#232323" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B0B"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#fade)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)" opacity="0.55"/>
+  <rect x="1" y="1" width="1198" height="318" rx="21" stroke="#343434" stroke-width="2"/>
+
+  <circle cx="62" cy="54" r="6" fill="#F5F5F5"/>
+  <circle cx="84" cy="54" r="6" fill="#707070"/>
+  <circle cx="106" cy="54" r="6" fill="#343434"/>
+  <text x="144" y="60" fill="#8B8B8B" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">profile://DekrecJ</text>
+
+  <text x="60" y="154" fill="#F4F4F4" font-size="68" font-weight="700" letter-spacing="4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">DANTE // BUILD</text>
+  <text x="64" y="199" fill="#A4A4A4" font-size="21" letter-spacing="3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SOFTWARE × AI × AUTOMATION × ENGINEERING</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">
+    <text x="64" y="262" fill="#7A7A7A">[01 DEFINE]</text>
+    <text x="208" y="262" fill="#4F4F4F">→</text>
+    <text x="242" y="262" fill="#8A8A8A">[02 DESIGN]</text>
+    <text x="390" y="262" fill="#4F4F4F">→</text>
+    <text x="424" y="262" fill="#9A9A9A">[03 BUILD]</text>
+    <text x="556" y="262" fill="#4F4F4F">→</text>
+    <text x="590" y="262" fill="#B0B0B0">[04 TEST]</text>
+    <text x="710" y="262" fill="#4F4F4F">→</text>
+    <text x="744" y="262" fill="#F2F2F2">[05 SHIP]</text>
+  </g>
+
+  <g transform="translate(1024 230)">
+    <circle cx="0" cy="0" r="7" fill="#F4F4F4">
+      <animate attributeName="opacity" values="1;0.28;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="18" y="6" fill="#B9B9B9" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">BUILDING</text>
+  </g>
+
+  <rect x="1120" y="118" width="8" height="50" fill="#F4F4F4">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
