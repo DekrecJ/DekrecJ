@@ -1,0 +1,64 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>ShipKit lifecycle — Discovery to Release</title>
+  <rect width="1200" height="420" rx="24" fill="#0D0D0D"/>
+  <rect x="1" y="1" width="1198" height="418" rx="23" stroke="#303030" stroke-width="2"/>
+
+  <text x="54" y="76" fill="#F2F2F2" font-size="34" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SHIPKIT</text>
+  <text x="54" y="108" fill="#8F8F8F" font-size="16" letter-spacing="2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SOFTWARE DELIVERY ORCHESTRATOR FOR AI CODING AGENTS</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">
+    <g transform="translate(54 170)">
+      <rect width="142" height="74" rx="12" fill="#151515" stroke="#414141"/>
+      <text x="20" y="32" fill="#777">01</text>
+      <text x="20" y="56" fill="#EDEDED">DISCOVERY</text>
+    </g>
+    <text x="207" y="214" fill="#5E5E5E">→</text>
+
+    <g transform="translate(238 170)">
+      <rect width="142" height="74" rx="12" fill="#151515" stroke="#414141"/>
+      <text x="20" y="32" fill="#777">02</text>
+      <text x="20" y="56" fill="#EDEDED">REQUIREMENTS</text>
+    </g>
+    <text x="391" y="214" fill="#5E5E5E">→</text>
+
+    <g transform="translate(422 170)">
+      <rect width="142" height="74" rx="12" fill="#151515" stroke="#414141"/>
+      <text x="20" y="32" fill="#777">03</text>
+      <text x="20" y="56" fill="#EDEDED">ARCHITECTURE</text>
+    </g>
+    <text x="575" y="214" fill="#5E5E5E">→</text>
+
+    <g transform="translate(606 170)">
+      <rect width="142" height="74" rx="12" fill="#151515" stroke="#414141"/>
+      <text x="20" y="32" fill="#777">04</text>
+      <text x="20" y="56" fill="#EDEDED">IMPLEMENT</text>
+    </g>
+    <text x="759" y="214" fill="#5E5E5E">→</text>
+
+    <g transform="translate(790 170)">
+      <rect width="142" height="74" rx="12" fill="#151515" stroke="#414141"/>
+      <text x="20" y="32" fill="#777">05</text>
+      <text x="20" y="56" fill="#EDEDED">TEST</text>
+    </g>
+    <text x="943" y="214" fill="#5E5E5E">→</text>
+
+    <g transform="translate(974 170)">
+      <rect width="172" height="74" rx="12" fill="#F1F1F1"/>
+      <text x="20" y="32" fill="#5A5A5A">06</text>
+      <text x="20" y="56" fill="#101010">SECURITY + SHIP</text>
+    </g>
+  </g>
+
+  <line x1="54" y1="300" x2="1146" y2="300" stroke="#282828"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">
+    <text x="54" y="350" fill="#7F7F7F">STATE</text>
+    <text x="112" y="350" fill="#EDEDED">persistent</text>
+    <text x="250" y="350" fill="#7F7F7F">GATES</text>
+    <text x="308" y="350" fill="#EDEDED">phase validation</text>
+    <text x="500" y="350" fill="#7F7F7F">QUALITY</text>
+    <text x="570" y="350" fill="#EDEDED">READY / REVIEW / NOT_READY</text>
+    <text x="850" y="350" fill="#7F7F7F">CI</text>
+    <text x="884" y="350" fill="#EDEDED">Python 3.10 · 3.11 · 3.12</text>
+  </g>
+</svg>
